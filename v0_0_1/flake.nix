@@ -11,7 +11,6 @@
   inputs.src-exprgrad-v0_0_1.ref   = "refs/tags/v0.0.1";
   inputs.src-exprgrad-v0_0_1.owner = "can-lehmann";
   inputs.src-exprgrad-v0_0_1.repo  = "exprgrad";
-  inputs.src-exprgrad-v0_0_1.dir   = "";
   inputs.src-exprgrad-v0_0_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
