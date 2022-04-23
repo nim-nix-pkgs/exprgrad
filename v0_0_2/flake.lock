@@ -36,22 +36,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-exprgrad-main": "src-exprgrad-main"
+        "src-exprgrad-v0_0_2": "src-exprgrad-v0_0_2"
       }
     },
-    "src-exprgrad-main": {
+    "src-exprgrad-v0_0_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1650240963,
-        "narHash": "sha256-bZHFUXRu/DJwqWvdiIEtXeCiDhSc4Qqc2We7I0aG7KM=",
+        "lastModified": 1649858154,
+        "narHash": "sha256-g15T1qrLdel7A83sunUGq6dl/Z+/3PJ9VrXq8MHJChw=",
         "owner": "can-lehmann",
         "repo": "exprgrad",
-        "rev": "1186ba1d83a2ff86cdc48d4fe49f021d4492f897",
+        "rev": "fd6dbdaf530d6ac4aaf76a4cb87ef631227621d8",
         "type": "github"
       },
       "original": {
         "owner": "can-lehmann",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v0.0.2",
         "repo": "exprgrad",
         "type": "github"
       }
