@@ -42,11 +42,11 @@
     "src-exprgrad-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1651914742,
-        "narHash": "sha256-sqSqedijZ4Zg/Z1L0xOaehfT8cZxtZBzZ/b58kRttxw=",
+        "lastModified": 1651969247,
+        "narHash": "sha256-/0ZxD7DGOKolp73Noec2ideSYQImzjOuErbEQdkGiOg=",
         "owner": "can-lehmann",
         "repo": "exprgrad",
-        "rev": "dbd151e60e4f013ce267798d2038a466daa599f5",
+        "rev": "11f47fa92fa54292ba44951bd5a3da3eaed2c027",
         "type": "github"
       },
       "original": {
